@@ -6,5 +6,6 @@ export const Container = styled.div`
 
 export const Title = styled.h1`
   margin: 15px;
-  font-size: medium;
+  font-size: 30px;
+  color: ${(props) => props.theme.colors.bordo};
 `;

@@ -13,6 +13,7 @@ const theme = {
     blue: "#2196f3",
     primaryText: "212121",
     secondaryText: "#757575",
+    bordo: "#640b0b",
   },
 };
 
