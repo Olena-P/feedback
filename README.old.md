@@ -34,7 +34,9 @@ npm install --save prop-types
 
 npm i @emotion/styled @emotion/react
 
-# Деплой приложения на Github Pages https://drive.google.com/file/d/1EOewQyS7V9SHsUbbycwgTNqB59jwhFnG/view
+# Деплой приложения на Github Pages
+
+https://drive.google.com/file/d/1EOewQyS7V9SHsUbbycwgTNqB59jwhFnG/view
 
 Chek in package.json:
 "scripts": {
@@ -62,4 +64,6 @@ Chek in package.json:
 3. Если надо пушишь ветку -
    git push origin <название ветки которую хочешь пушить без скобочек>
 
-# Как сдавать домашнее задание https://drive.google.com/file/d/1LxvTTqaXt74DkqDEmCk29MVT9EF0b3Zq/view
+# Как сдавать домашнее задание
+
+https://drive.google.com/file/d/1LxvTTqaXt74DkqDEmCk29MVT9EF0b3Zq/view
