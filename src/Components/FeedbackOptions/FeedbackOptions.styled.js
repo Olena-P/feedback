@@ -9,7 +9,7 @@ export const Button = styled.button`
   box-shadow: 0px 5px 10px 2px rgba(11, 11, 11, 0.34);
   border: none;
   border-radius: 10px;
-  padding: 10px;
+  padding: 10px 5px;
 
   &:hover {
     background-color: ${(props) => props.theme.colors.red};
