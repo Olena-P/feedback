@@ -5,8 +5,7 @@ import { Statistics } from "Components/Statistics/Statistics";
 import { Section } from "Components/Container/Container";
 import { Notification } from "Components/Notification/Notification";
 import { AppContainer } from "./App.styled";
-
-
+// import { GrInstagram } from "react-icons/gr";
 
 export class App extends Component {
   state = {
@@ -34,6 +33,7 @@ export class App extends Component {
     const { good, neutral, bad } = this.state;
     return (
       <AppContainer>
+        {/* <GrInstagram></GrInstagram> */}
         <Section title="Please leave feedback">
          <FeedbackOptions options={["good", "neutral", "bad"]} onSelect={this.leaveFeedback} />
         </Section>
