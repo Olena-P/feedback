@@ -8,7 +8,7 @@ export const Button = styled.button`
   color: ${(props) => props.theme.colors.white};
   box-shadow: 0px 5px 10px 2px rgba(11, 11, 11, 0.34);
   border: none;
-  border-radius: 10px;
+  border-radius: 9px;
   padding: 5px 10px;
 
   &:hover {
